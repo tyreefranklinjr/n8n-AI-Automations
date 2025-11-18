@@ -13,7 +13,7 @@
       ],
       "id": "f432fccd-aa18-42c0-8de3-67885dd6ef8b",
       "name": "When chat message received",
-      "webhookId": "674ce782-6ca3-426a-817f-2f9b7f906742"
+      "webhookId": "YOUR_WEBHOOK_ID_HERE"
     },
     {
       "parameters": {
@@ -44,7 +44,7 @@
       "name": "Google Gemini Chat Model",
       "credentials": {
         "googlePalmApi": {
-          "id": "VYIgkINYi1W4puvD",
+          "id": "YOUR_GOOGLE_GEMINI_CREDENTIAL_ID",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -183,7 +183,7 @@
       "name": "Google Gemini Chat Model1",
       "credentials": {
         "googlePalmApi": {
-          "id": "VYIgkINYi1W4puvD",
+          "id": "YOUR_GOOGLE_GEMINI_CREDENTIAL_ID",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -429,7 +429,7 @@
           "parameters": [
             {
               "name": "Cookie",
-              "value": " i18n-prefs=USD; lc-main=en_US; session-id=147-9164459-7623028; session-id-time=2082787201l; skin=noskin"
+              "value": "YOUR_AMAZON_COOKIES_HERE"
             },
             {
               "name": "User-Agent",
@@ -618,7 +618,7 @@
       "name": "Google Gemini Chat Model2",
       "credentials": {
         "googlePalmApi": {
-          "id": "VYIgkINYi1W4puvD",
+          "id": "YOUR_GOOGLE_GEMINI_CREDENTIAL_ID",
           "name": "Google Gemini(PaLM) Api account"
         }
       }
@@ -693,11 +693,11 @@
           "parameters": [
             {
               "name": "key",
-              "value": "AIzaSyCQWmV7Gwm6ncQfKLRkHhLTTQ5DVIK2W4g"
+              "value": "YOUR_GOOGLE_API_KEY_HERE"
             },
             {
               "name": "cx",
-              "value": "f770075dc6ad8412f"
+              "value": "YOUR_GOOGLE_SEARCH_ENGINE_ID"
             },
             {
               "name": "q",
@@ -720,9 +720,9 @@
       "parameters": {
         "workflowId": {
           "__rl": true,
-          "value": "o3uhqskbJyYkxbhY",
+          "value": "YOUR_WORKFLOW_ID_HERE",
           "mode": "list",
-          "cachedResultUrl": "/workflow/o3uhqskbJyYkxbhY",
+          "cachedResultUrl": "/workflow/YOUR_WORKFLOW_ID_HERE",
           "cachedResultName": "Project 5 Sheet"
         },
         "workflowInputs": {
@@ -1171,7 +1171,7 @@
   "versionId": "48dc98dc-44ea-4dff-b058-39b8ddf474ac",
   "meta": {
     "templateCredsSetupCompleted": true,
-    "instanceId": "c6ac6d233d04dc71ea95f3bd4cf7bea76f3f84cadb2409bcca8741bd320a63e1"
+    "instanceId": "YOUR_INSTANCE_ID_HERE"
   },
   "id": "OOcmdQniQ1DrV2tM",
   "tags": []
