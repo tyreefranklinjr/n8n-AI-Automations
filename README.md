@@ -5,7 +5,6 @@
 **Intelligent automation workflows powered by AI, data pipelines, and modern web technologies**
 
 [![GitHub stars](https://img.shields.io/github/stars/tyreefranklinjr/n8n-AI-Automations?style=social)](https://github.com/tyreefranklinjr/n8n-AI-Automations)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -177,12 +176,6 @@ Feel free to:
 - ⭐ Star this repo if you find it useful
 - 🐛 Open issues for bugs or suggestions
 - 🤝 Reach out for collaboration
-
----
-
-## 📜 License
-
-MIT License - Free to use, modify, and distribute. See [LICENSE](./LICENSE) for details.
 
 ---
 
