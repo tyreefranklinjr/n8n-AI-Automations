@@ -189,5 +189,5 @@ MIT License - feel free to adapt for your own workflows.
 
 **Tyree Franklin Jr.**  
 🎓 CS Student @ UT Dallas  
-💼 [LinkedIn](https://linkedin.com/in/tyreefranklinjr) | 📧 [Email](mailto:your-email@example.com)  
+💼 [LinkedIn](https://linkedin.com/in/tyreefranklinjr) | 📧 [Email](mailto:tyree.franklinjr@gmail.com)  
 🚀 Building automation, trading systems, and scalable software.
