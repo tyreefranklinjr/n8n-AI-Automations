@@ -163,7 +163,7 @@ I'm on a 30-day intensive bootcamp to transition from student to professional so
 ### Connect with Me
 
 💼 [LinkedIn](https://linkedin.com/in/tyreefranklinjr)  
-📧 [Email](mailto:your-email@example.com)  
+📧 [Email](mailto:tyree.franklinjr@gmail.com)  
 👨‍💻 [GitHub Profile](https://github.com/tyreefranklinjr)
 
 ---
